@@ -5,3 +5,4 @@ This script collection ist meant to be used with the Cisco Spark Cloud Services.
 https://www.ciscospark.com/.
 Usage: sparkmessage.sh "Whatever you have to say"
 Requirements: A descent linux distribution that goes along with a bash shell plus curl and a cisco spark account, which you can obtain here, free of charge: https://www.ciscospark.com
+To learn more about the Cisco Spark API, go here (documentation+sandbox): https://developer.ciscospark.com
