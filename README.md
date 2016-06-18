@@ -4,4 +4,4 @@ Quick@Dirty scripts to use for posting Cisco Spark messages via bash and the Cis
 This script collection ist meant to be used with the Cisco Spark Cloud Services. Go here to learn more about Cisco Spark:
 https://www.ciscospark.com/.
 Usage: sparkmessage.sh "Whatever you have to say"
-Requirements: A descent linux distribution that goes along with a bash shell plus curl and a spark account.
+Requirements: A descent linux distribution that goes along with a bash shell plus curl and a cisco spark account, which you can obtain here, free of charge: https://www.ciscospark.com
